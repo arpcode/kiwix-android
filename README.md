@@ -49,6 +49,9 @@ Please use IRC to discuss questions regarding the project: #kiwix on irc.freenod
 
 You can use IRC web interface on [http://chat.kiwix.org/](http://chat.kiwix.org/).
 
+
+Editing this file.
+
 Our other sources of communications include
 
 - Email: kiwix-developer@lists.sourceforge.net or contact@kiwix.org
